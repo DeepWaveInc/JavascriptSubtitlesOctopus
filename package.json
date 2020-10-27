@@ -1,5 +1,5 @@
 {
-  "name": "libass-wasm",
+  "name": "@youka/libass-wasm",
   "version": "4.0.0",
   "description": "libass Subtitle Renderer and Parser library for browsers",
   "main": "dist/js/subtitles-octopus.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dador/JavascriptSubtitlesOctopus.git"
+    "url": "git+https://github.com/youkaclub/JavascriptSubtitlesOctopus.git"
   },
   "keywords": [
     "libass",
